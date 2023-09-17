@@ -1,0 +1,22 @@
+for web dev project 
+always ignore nodemodules before pushing and for big projects check for env variable
+//
+create .gitignore
+write node_modules and all other files to ignore like the .env file
+referece blog in bookmark
+
+/// for pushing in github
+
+1. to add files by selecting
+create new repo
+add a readme file
+and add your desired files from computer
+
+2. to push from vs code
+before all this type git in terminal and if it shows error check for enviromnet variables in system
+create anew repo 
+dont add a readme file(xxxxxx) nnnnnnnnnnn
+then follow steps given in code page one by one
+in case remote access problem
+delete it once seee comd from net
+and rerun all steps
